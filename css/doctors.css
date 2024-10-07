@@ -164,7 +164,7 @@ td {
     }
 
     table {
-        min-width: 300px; /* Adjusts the minimum width for smaller devices */
+        min-width: 300px; 
     }
 }
 
@@ -175,6 +175,6 @@ td {
     }
 
     table {
-        min-width: 280px; /* Further reduces minimum width for mobile devices */
+        min-width: 280px; 
     }
 }
