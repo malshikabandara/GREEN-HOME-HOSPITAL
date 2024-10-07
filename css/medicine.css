@@ -13,10 +13,11 @@ body{
 }
 h1{
     text-decoration: underline;
+    
 }
 
 form{
-    max-width: 1000px;
+    max-width: 900px;
     height: 980px;
     margin: auto;
     padding: 20px;
