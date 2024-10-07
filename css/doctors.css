@@ -193,3 +193,13 @@ footer{
     
 }
 footer{
+    text-align: center;
+    padding: 1px;
+    background: #3a8777ca;
+    color:rgb(6, 47, 35);
+    position:fixed;
+    width: 100%;
+    bottom: 0%; 
+    height: 30px; 
+    font-weight: bold;  
+}
