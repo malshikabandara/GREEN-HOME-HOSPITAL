@@ -69,3 +69,28 @@
     width: 450px;
     height: 496px;
 }
+footer{
+    background: rgb(19, 19, 19);
+    padding-top: 100px;
+    text-align: left;
+
+}
+.container{
+    width: 2100px;
+    margin:auto;
+    display:flex;
+    text-align: left;
+    
+    
+}
+footer{
+    text-align: center;
+    padding: 1px;
+    background: #3a8777ca;
+    color:rgb(6, 47, 35);
+    position:fixed;
+    width: 100%;
+    bottom: 0%; 
+    height: 20px; 
+    font-weight: bold;  
+}
