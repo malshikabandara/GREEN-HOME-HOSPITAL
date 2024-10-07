@@ -79,21 +79,7 @@ background-color: rgb(228, 189, 224);
     font-style: italic;
     background-color: rgb(218, 218, 223);
 }
-footer{
-    background: rgb(19, 19, 19);
-    padding-top: 100px;
-    text-align: left;
 
-}
-.container{
-    width: 2100px;
-    margin:auto;
-    display:flex;
-    text-align: left;
-    
-    
-}
-footer{
     text-align: center;
     padding: 1px;
     background: #3a8777ca;
